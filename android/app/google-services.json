@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "305192474525",
+    "firebase_url": "https://mc-poc-d026b.firebaseio.com",
+    "project_id": "mc-poc-d026b",
+    "storage_bucket": "mc-poc-d026b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305192474525:android:4f0596268ebb5c3277c174",
+        "android_client_info": {
+          "package_name": "metavantage.mcpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305192474525-7h837kfedsdnc581rniseghss99l3tp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD-by7VgETMwZEzwjCg1aMZ4fTy2LjFrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305192474525-7h837kfedsdnc581rniseghss99l3tp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305192474525-5l3m67j6hj64furlk58ekpgu000r30af.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "metavantage.mcpoc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

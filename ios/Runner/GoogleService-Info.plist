@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>305192474525-5l3m67j6hj64furlk58ekpgu000r30af.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.305192474525-5l3m67j6hj64furlk58ekpgu000r30af</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBR7rZxBrjZ7IleLv3vtMPbvhArB85cVf8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>305192474525</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>metavantage.mcpoc</string>
+	<key>PROJECT_ID</key>
+	<string>mc-poc-d026b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mc-poc-d026b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:305192474525:ios:144e4f3e965ae77e77c174</string>
+	<key>DATABASE_URL</key>
+	<string>https://mc-poc-d026b.firebaseio.com</string>
+</dict>
+</plist>
